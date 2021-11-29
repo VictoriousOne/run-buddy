@@ -12,3 +12,5 @@ https://VictoriousOne.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by [Kerry]
+
+# Run Buddy Inc.
